@@ -5,7 +5,8 @@ for the haltech elite 2500.
 It's sad there is no proper base map for the Z33 in the NSP software
 so I'm trying to make one.
 
-This is a base map for the stock ECU based on VE. 
+This is a base map that should work similar 
+as the stock ECU, but, based on VE. 
 
 Since the 03 and early 04 did not have a wideband, 
 I wanted a self correcting ECU based on accurate wideband data.
