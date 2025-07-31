@@ -1,0 +1,4 @@
+*20250731
+1. I made mistake of changing under fuel tuning ->  Fuel Pressure Input Type to a MAP option. Supposed to be Constant. 
+2. The Pro Platinum map calls for 46.4 psi base fuel pressure.
+

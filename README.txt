@@ -19,7 +19,9 @@ I wanted a self correcting ECU based on accurate wideband data.
 * LINKS
 https://support.haltech.com/portal/en/kb/articles/vq35de-engine?gad_source=1&gad_campaignid=20930836765&gclid=EAIaIQobChMIyeGM_53ljgMVdFJ_AB3d8ysqEAAYASAAEgJK0fD_BwE
 
-* ISSUES
-1. Car runs rich. will idle around 13.8-14.2
+* ISSUES - 20250731
+1. After fixing the fuel pressure input type, the AFR's are where they
+need to be. But now the problem is, it feels like the VVT doesn't kick on? The car feels great and hits proper AFR's up till 3k, Then
+it feels like it loses power.
 2. slip light on
 3. VDC switch doesn't work.
