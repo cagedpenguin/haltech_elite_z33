@@ -2,3 +2,9 @@
 1. I made mistake of changing under fuel tuning ->  Fuel Pressure Input Type to a MAP option. Supposed to be Constant. 
 2. The Pro Platinum map calls for 46.4 psi base fuel pressure.
 
+*20250802
+1. More clean up of intake cams. % duty cycles.
+2. Added transmission gear ratios. Can't believe it took me this long to see that.
+3. Set the RPM limit which again, this is supposed to be a base map, is 6500 rpm. 
+4. Copying from the Plat Pro Z33 VE map, cleaned up the timing table. 
+
