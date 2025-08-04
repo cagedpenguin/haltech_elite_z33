@@ -1,3 +1,9 @@
+* DISCLAIMER
+This is not meant to be a true daily map. It is meant to be a 
+map you can use until you get it professionally tuned.
+I take no responsibility if you play with this map and self tune
+your car and it blows up.
+
 * WHY
 There is a Pro Platinum map for the Z33. 
 I am copying as much of that as possible and converting it
@@ -19,9 +25,9 @@ I wanted a self correcting ECU based on accurate wideband data.
 * LINKS
 https://support.haltech.com/portal/en/kb/articles/vq35de-engine?gad_source=1&gad_campaignid=20930836765&gclid=EAIaIQobChMIyeGM_53ljgMVdFJ_AB3d8ysqEAAYASAAEgJK0fD_BwE
 
-* ISSUES - 20250731
-1. After fixing the fuel pressure input type, the AFR's are where they
-need to be. But now the problem is, it feels like the VVT doesn't kick on? The car feels great and hits proper AFR's up till 3k, Then
-it feels like it loses power.
-2. slip light on
-3. VDC switch doesn't work.
+* ISSUES - 20250804
+1. slip light on
+2. VDC switch doesn't work.
+
+* BETA - 20250804
+This map, after you train the throttle does let you drive to the tuners. Just keep it under 4k rpms.
