@@ -31,3 +31,10 @@ https://support.haltech.com/portal/en/kb/articles/vq35de-engine?gad_source=1&gad
 
 * BETA - 20250804
 This map, after you train the throttle does let you drive to the tuners. Just keep it under 4k rpms.
+
+* DEV - 20250804
+This map is more of a clean up, This map is for a NA VQ35DE. This one is meant to replace the BETA map once
+I get enough logs showing the stability of the changes. 
+For example, 
+The NSP base map makes 3D grids for atmospheric pressure between -29 and +29 and up to 10k rpms.
+The VQ35DE doesn't need such huge grids for tuning, so cutting them down to up to 2.9 atmospheric and 8k rpms should be good enough.
