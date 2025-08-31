@@ -23,11 +23,12 @@ I wanted a self correcting ECU based on accurate wideband data.
 3. Haltech elite 2500
 
 * LINKS
-https://support.haltech.com/portal/en/kb/articles/vq35de-engine?gad_source=1&gad_campaignid=20930836765&gclid=EAIaIQobChMIyeGM_53ljgMVdFJ_AB3d8ysqEAAYASAAEgJK0fD_BwE
+1. https://support.haltech.com/portal/en/kb/articles/vq35de-engine
+2. https://www.youtube.com/watch?v=vkzaT_JG1Qk
 
-* ISSUES - 20250804
+* ISSUES - 20250830
 1. slip light on
 2. VDC switch doesn't work.
 
-* BETA - 20250813
+* BETA - 20250830
 This map, after you train the throttle does let you drive to the tuners. Just keep it under 4k rpms.
