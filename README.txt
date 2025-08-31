@@ -18,9 +18,9 @@ Since the 03 and early 04 did not have a wideband,
 I wanted a self correcting ECU based on accurate wideband data.
 
 * SETUP
-1. Haltech WB2 kit installed in the bungs closest to the headers.
-2. Boomslang Z33 PnP harness
-3. Haltech elite 2500
+1. Haltech elite 2500.
+2. Boomslang Z33 PnP harness. https://www.boomslang.com/haltech-elite.php
+3. Haltech WB2 kit installed in the bungs closest to the headers. 
 
 * LINKS
 1. https://support.haltech.com/portal/en/kb/articles/vq35de-engine
